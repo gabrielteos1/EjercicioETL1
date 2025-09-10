@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36414.22 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{C9674DCB-5085-4A16-B785-4C70DD1589BD}") = "Chinook_ETL_SSIS", "Chinook_ETL_SSIS\Chinook_ETL_SSIS.dtproj", "{5A8DCEAD-87E4-DEEA-77A2-7C604C680013}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5A8DCEAD-87E4-DEEA-77A2-7C604C680013}.Development|Default.ActiveCfg = Development
+		{5A8DCEAD-87E4-DEEA-77A2-7C604C680013}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {63FD67B7-E17D-4904-8D91-976A23264AAE}
+	EndGlobalSection
+EndGlobal

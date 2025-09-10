@@ -1,0 +1,39 @@
+# .gitignore para Visual Studio + SSIS (Chinook_ETL_SSIS)
+
+# Visual Studio workspace / archivos de usuario
+.vs/
+*.suo
+*.user
+*.rsuser
+*.sln.docstates
+
+# Carpetas de build
+bin/
+obj/
+[Bb]in/
+[Oo]bj/
+
+# SSDT / SSIS / SQL Server
+*.dbmdl
+*.ispac
+*.dtproj.user
+
+# Control de versiones de VS
+*.vssscc
+*.vspscc
+
+# Archivos temporales, logs y caches
+*.log
+*.tmp
+*.cache
+*.vsidx
+
+# Backups y archivos locales
+*.bak
+*.userosscache
+
+# IDEs alternativas (opcional)
+.vscode/
+
+# NOTA: No ignoramos:
+# - .sln, .dtproj, .dtsx (paquetes SSIS) y .sql (queremos subirlos)
